@@ -1,0 +1,40 @@
+/* Your existing styles */
+
+body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+}
+
+
+.lyricsContent {
+    font-size: 20px; /* Adjust font size to your preference */
+    line-height: 1.6; /* Optional: Set line height for better readability */
+    white-space: pre-line;
+    font-familY:'Sitka Small Semibold';
+    font-size: large;
+
+}
+
+/* Additional styles for better readability and aesthetics */
+h2 {
+    color: #ff000d;
+    font-size: 34px;
+    margin-bottom: 10px;
+    font-family: Rockwell;
+}
+
+h1{
+    text-align: center;
+    font-size: 44px;
+    margin-bottom: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+
+.song {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
